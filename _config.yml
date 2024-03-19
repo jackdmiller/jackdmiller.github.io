@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Your Name
+title: Jack Miller
 description: subtitle | affiliations | motto
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: jackdmiller.github.io/gradfolio #name of GitHub repository
+url: "jack-miller.me" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
