@@ -3,7 +3,7 @@
 title: Jack Miller
 description: subtitle | affiliations | motto
 
-baseurl: /jackdmiller.github.io #name of GitHub repository
+baseurl: "/" #name of GitHub repository
 url: "jack-miller.me" #custom url to be used instead of GitHub repository
 email: #
 
