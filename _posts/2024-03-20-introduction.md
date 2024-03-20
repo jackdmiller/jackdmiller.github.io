@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-Hello! This is my fist post, and I'll use it to give some insight into who I am.
+Hello! This is my first post, and I'll use it to give some insight into who I am.
 
 So, as you probably know by now, my name is Jack Miller. As of me writing this I am 19 years old and about to be finishing up my second semester of college at the University of Central Florida. Here, I am pursuing a bachelor's degree in information technology, though this wasn't always my plan.
 
