@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 4
+title: WORK IN PROGRESS
 description: another project
 ---
 
