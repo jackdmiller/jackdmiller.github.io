@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-Hello! This is my first post, and I'll use it to give some insight into who I am.
+Hello! This is my first post, and I'll use it to talk about myself and give some insight into who I am.
 
 So, as you probably know by now, my name is Jack Miller. As of me writing this I am 19 years old and about to be finishing up my second semester of college at the University of Central Florida. Here, I am pursuing a bachelor's degree in information technology, though this wasn't always my plan.
 
@@ -13,4 +13,8 @@ Spoiler alert, it wasn't, and in June 2023, before I even started my first day o
 
 Now, I don't regret my decision at all. I am enjoying learning about different areas of cybersecurity, and slowly determining which route I would like to take for my career.
 
+Anyways, here are some of my other hobbies and interests, which I may also occassionally talk about on my blog. I play bass guitar (and electric guitar a little bit), and I love lots of different types of music. I like playing video games, and one that I am playing right now is DCS World, a military flight/combat simulator which I enjoy quite a bit! I am also learning to skate right now. I bought a board to get around campus, but I do want to learn some tricks at some point.
 
+Overall, I will be using this blog to document my learning journey and share my experiences as I continue my studies. I do hope that someday someone else who is looking to get into cybersecurity will find this useful!
+
+I plan on making my next post about TryHackMe soon, since I just recently started using it, and would like to share my thoughts so far as a beginner.
