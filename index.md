@@ -1,21 +1,16 @@
 ---
 layout: about
 permalink: /
-profile:
+profile: 
   align: right
-  image: profile.png
+  image: profilepic.png
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hello, and welcome to my site! My name is Jack Miller and I am currently a university pursuing a bachelor's degree in Information Technology with a focus on cybersecurity. This site will serve as a hub for all the content I post on the Internet.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I am very new to the world of infosec, but I am very eager to learn more and further develop my skillset as a professional. I am beginning to familiarize myself with many IT concepts, such as network administration and cloud computing. I currently work part-time as a concessions manager at a local baseball stadium.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Please do not hesitate to reach out to me for anything!
 
-PS: If you liked the theme, do star it on GitHub!
 
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
