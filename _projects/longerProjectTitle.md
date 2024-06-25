@@ -67,6 +67,7 @@ education framework based on the findings. Figure out what would be necessary fo
 standardized learning plan that could work globally.
 
 Week 9-10:
+
 Implementation Plan: Create a timeline for implementing the proposed framework
 within a semester. Introduce this framework to professionals and educators.
 
