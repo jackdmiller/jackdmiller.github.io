@@ -13,7 +13,7 @@ In the end, I realized it wasn't, and in June 2023, before I even started my fir
 
 Now, I don't regret my decision at all. I am enjoying learning about different areas of cybersecurity, and slowly determining which route I would like to take for my career.
 
-Anyways, here are some of my other hobbies and interests, which I may also occassionally talk about on my blog. I play bass guitar (and a little bit of electric guitar), and I love lots of different types of music. I like playing video games, and right now I am trying to play through all of the Persona titles. I am also learning to skate right now. I bought a board to get around campus, but I do want to learn some tricks at some point.
+Anyways, here are some of my other hobbies and interests, which I may also occassionally talk about on my blog. I play bass guitar (and a little bit of electric guitar), and I love lots of different types of music. I like playing video games, and right now I am learning to skate. I bought a board to get around campus, but I do want to learn some tricks at some point.
 
 Overall, I will be using this blog to document my learning journey and share my experiences as I continue my studies. I do hope that someday someone else who is looking to get into cybersecurity will find this useful and/or interesting!
 
