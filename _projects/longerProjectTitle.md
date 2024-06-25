@@ -6,8 +6,7 @@ description: ENC 3241 Project
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
-H1 Header
-============
+
 
 This mini research proposal, titled "Securing our Digital Future: Enhancing Cybersecurity Education Among Students," serves as a sample for my professional writing skills and ability to address critical issues in a structured and comprehensive manner. The project aims to evaluate the current state of cybersecurity education, identify knowledge gaps among students, and develop strategies to enhance their cybersecurity skills. By ensuring students meet a standard level of cybersecurity knowledge, this proposal not only seeks to protect them from digital threats but also prepares them for future careers in an ever-evolving world.
 
@@ -23,8 +22,10 @@ digital threats? This research project aims to study the current state of cybers
 among students, identify what areas they lack knowledge in, and propose strategies to enhance
 their awareness and skills. The goal is to ultimately ensure that students all meet a standard level
 of cybersecurity knowledge to protect themselves from harm.
+
 Project Background and Significance
 ============
+
 In today’s world, where computers and other electronics are integral to nearly everyone's lives,
 cybersecurity education should be a crucial component of school curriculums. Students
 increasingly rely on technology for both learning and personal activities, making them potential
@@ -38,8 +39,10 @@ students for future careers in the ever-growing tech industry, addressing the in
 for skilled cybersecurity professionals. This research is significant as it aims to bridge
 educational gaps, ensuring all students receive adequate training in cybersecurity, thus fostering a
 more secure digital environment for everyone.
+
 Research Methods
 ============
+
 General Timeline (Fall Semester over approx. 10 weeks)
 Week 1:
 Journal Review: Conduct a thorough review of existing research on cybersecurity
@@ -63,8 +66,10 @@ standardized learning plan that could work globally.
 Week 9-10:
 Implementation Plan: Create a timeline for implementing the proposed framework
 within a semester. Introduce this framework to professionals and educators.
+
 Expected Outcome
 ============
+
 Upon completion of this research, several deliverables will be produced to ensure the findings
 and recommendations are effectively communicated and implemented. The primary outcome
 will be a comprehensive report detailing the current state of cybersecurity education among
@@ -94,8 +99,10 @@ improving cybersecurity education.
 as a pilot program in select schools. This pilot will allow for the practical testing of the
 recommendations, providing valuable feedback that can be used to refine and improve
 the framework before broader implementation.
+
 Literature Review
 ============
+
 ● Ibrahim, Ahmed, et al. “A systematic review of K-12 cybersecurity education around the
 world.” IEEE Access, vol. 12, 2024, pp. 59726–59738,
 https://doi.org/10.1109/access.2024.3393425.
@@ -110,14 +117,18 @@ Fifth Cybersecurity Symposium, 9 Apr. 2018, https://doi.org/10.1145/3212687.3212
 ● Crabb, James, et al. “A critical review of cybersecurity education in the United States.”
 Proceedings of the 55th ACM Technical Symposium on Computer Science Education V.
 1, 7 Mar. 2024, https://doi.org/10.1145/3626252.3630757.
+
 Preliminary Work and Experience
 ============
+
 While I have yet to conduct any work towards this research project, I do have foundational
 knowledge in many areas of cybersecurity from my coursework and extracurricular activities.
 My studies so far while in college have been focused on cybersecurity, so I have seen firsthand
 what is taught in an educational setting. I am also actively involved with the student organization
 Hack@UCF, where our primary purpose is educating others on cybersecurity practices.
+
 IRB/IACUC Statement
 ============
+
 This research involves surveys and interviews with human subjects and will require IRB
 approval.
