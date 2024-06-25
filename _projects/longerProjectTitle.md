@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A longer Project Title
-description: short project description
+title: Mini Proposal Assignment
+description: ENC 3241 Project
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
