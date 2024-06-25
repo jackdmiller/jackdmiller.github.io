@@ -4,7 +4,7 @@ title: Jack Miller
 description: Delving into the world of cybersecurity.
 
 baseurl: #name of GitHub repository
-url: "jack-miller.me" #custom url to be used instead of GitHub repository
+url: #custom url to be used instead of GitHub repository
 email: jdmiller253@gmail.com
 
 # Pagination
