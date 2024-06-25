@@ -3,11 +3,6 @@ layout: post
 title: Mini Proposal Assignment
 description: ENC 3241 Project
 ---
-
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
-
-
-
 This mini research proposal, titled "Securing our Digital Future: Enhancing Cybersecurity Education Among Students," serves as a sample for my professional writing skills and ability to address critical issues in a structured and comprehensive manner. The project aims to evaluate the current state of cybersecurity education, identify knowledge gaps among students, and develop strategies to enhance their cybersecurity skills. By ensuring students meet a standard level of cybersecurity knowledge, this proposal not only seeks to protect them from digital threats but also prepares them for future careers in an ever-evolving world.
 
 The proposal showcases my proficiency in conducting thorough research, analyzing data, and presenting findings in a clear and concise format. It involves a systematic approach, including journal reviews, surveys, interviews, and the development of an education framework, demonstrating my ability to manage complex projects and produce actionable insights. The expected outcomes, such as detailed reports, academic articles, conference presentations, and workshops, highlight my commitment to effective communication and knowledge dissemination. This assignment showcases my professional writing capabilities as well as my ability to solve problems.
@@ -46,25 +41,31 @@ Research Methods
 ============
 
 General Timeline (Fall Semester over approx. 10 weeks)
+
 Week 1:
 Journal Review: Conduct a thorough review of existing research on cybersecurity
 education to understand the current landscape and see what professionals have previously
 found.
+
 Week 2-3:
 Surveys: Create and distribute surveys to students to assess their current knowledge and
 awareness of cybersecurity practices.
+
 Week 4-5:
 Interviews: Conduct interviews with educators and cybersecurity experts to gather
 insights on effective teaching methods and what curriculums are currently successful at
 educating students.
+
 Week 6:
 Analysis: Analyze survey and interview data to identify trends and areas needing
 improvement. Compile and organize information into an understandable format which
 can be easily reviewed.
+
 Week 7-8:
 Development: Utilize all collected data to produce a comprehensive cybersecurity
 education framework based on the findings. Figure out what would be necessary for a
 standardized learning plan that could work globally.
+
 Week 9-10:
 Implementation Plan: Create a timeline for implementing the proposed framework
 within a semester. Introduce this framework to professionals and educators.
