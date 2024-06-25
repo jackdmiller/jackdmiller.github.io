@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 4
-description: another project
+title: Cover Letter, Resume and Mini Interview
+description: ENC 3241 Project #1
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
