@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Jack Miller
+description: Delving into the world of cybersecurity.
 
-baseurl: "jackdmiller.github.io" #name of GitHub repository
+baseurl: "/" #name of GitHub repository
 url: "jack-miller.me" #custom url to be used instead of GitHub repository
-email: #jdmiller253@gmail.com
+email: jdmiller253@gmail.com
 
 # Pagination
 paginate: 4
@@ -22,7 +22,6 @@ orcid:
 quora: 
 instagram: 
 facebook: 
-
 
 
 # Markdown
