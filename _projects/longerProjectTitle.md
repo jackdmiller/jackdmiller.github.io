@@ -5,8 +5,6 @@ description: ENC 3241 Project
 ---
 This mini research proposal, titled "Securing our Digital Future: Enhancing Cybersecurity Education Among Students," serves as a sample for my professional writing skills and ability to address critical issues in a structured and comprehensive manner. The project aims to evaluate the current state of cybersecurity education, identify knowledge gaps among students, and develop strategies to enhance their cybersecurity skills. By ensuring students meet a standard level of cybersecurity knowledge, this proposal not only seeks to protect them from digital threats but also prepares them for future careers in an ever-evolving world.
 
-The proposal showcases my proficiency in conducting thorough research, analyzing data, and presenting findings in a clear and concise format. It involves a systematic approach, including journal reviews, surveys, interviews, and the development of an education framework, demonstrating my ability to manage complex projects and produce actionable insights. The expected outcomes, such as detailed reports, academic articles, conference presentations, and workshops, highlight my commitment to effective communication and knowledge dissemination. This assignment showcases my professional writing capabilities as well as my ability to solve problems.
-
 Project Title
 ============
 
