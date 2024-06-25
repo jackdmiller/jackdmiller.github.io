@@ -14,7 +14,9 @@ The proposal showcases my proficiency in conducting thorough research, analyzing
 
 Project Title
 ============
+
 Securing our Digital Future: Enhancing Cybersecurity Education Among Students
+
 Project Objective
 ============
 How can we improve cybersecurity education to ensure students are well-prepared to handle
